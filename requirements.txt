@@ -1,0 +1,8 @@
+bs4
+moviepy
+pillow
+urllib3
+assemblyai
+pysrt
+ffmpeg-python
+deep-translator
