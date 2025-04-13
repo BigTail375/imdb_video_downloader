@@ -1,8 +1,9 @@
 bs4
-moviepy
+moviepy==1.0.3
 pillow
 urllib3
 assemblyai
 pysrt
 ffmpeg-python
 deep-translator
+pymongo
